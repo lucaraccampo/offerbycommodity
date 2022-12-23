@@ -5,18 +5,18 @@
             "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2021-10/024_LUCE-Luce-RELAX.jpg?itok=x1nhbzid",
             "title": "Luce RELAX",
             "subtitle": "Offerta valida fino al 31 Dicembre 2022.",
-            "description": "",
+            "description": "<div style=\"text-align: left;\">\r\n<p><strong>Fornitura elettrica h24, 7 giorni su 7, senza sorprese.</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Conveniente</strong>: il valore della componente energia è sempre competitivo.</li>\r\n\t<li><strong>Sostenibile</strong>: il 100% dell'energia fornita proviene da fonti rinnovabili.</li>\r\n\t<li><strong>Trasparente</strong>: nessun asterisco, né costi nascosti o clausole minuscole.</li>\r\n\t<li><strong>Veloce</strong>: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.</li>\r\n\t<li><strong>Rilassata</strong>: in Pulsee entri ed esci quando vuoi, a costo zero e senza vincoli temporali di permanenza.</li>\r\n\t<li><strong>Personalizzabile</strong>: Sharing? Impatto zero?</li>\r\n</ul>\r\n\r\n<p>Sei tu a scegliere.</p>\r\n</div>\r\n",
             "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-relax?tipologia-prezzo=prezzo-fisso",
+            "linkSeeMore": "/offerte-casa-luce-gas/luce-relax?tipologia-prezzo=prezzo-indicizzato",
             "nuovaVisualizzazioneIndicizzato": "1",
             "products": [
                 {
                     "analyticsName": "Pulsee Luce RELAX",
                     "commodity": "Luce",
                     "priceType": "prezzo-indicizzato",
-                    "productCode": "Pulsee00185",
+                    "productCode": "Pulsee00187",
                     "listCode": "000099ESVML10XXPULSEEPUB09992210",
-                    "configurationCode": "Pulsee00185",
+                    "configurationCode": "Pulsee00187",
                     "prices": [
                         {
                             "name": "Energia F0",
@@ -63,16 +63,17 @@
                     "id": "AXPODT2019-4-53",
                     "priceType": null
                 }
-            ]
+            ],
+            "priceCapIncluded": false
         },
         {
             "offerId": "619",
             "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2021-10/012_LUCE-Luce-PER-TE.jpg?itok=Z7v0sV3f",
             "title": "Luce PER TE",
             "subtitle": "Offerta valida fino al 31 Dicembre 2022.",
-            "description": "",
+            "description": "<div style=\"text-align: left;\">\r\n<p><strong>Dedicata a chi usa l'energia elettrica solo in momenti precisi.</strong></p>\r\n\r\n<ul>\r\n\t<li><strong>Conveniente</strong>: il valore della componente energia è sempre competitivo.</li>\r\n\t<li><strong>Sostenibile</strong>: il 100% dell'energia fornita proviene da fonti rinnovabili.</li>\r\n\t<li><strong>Trasparente</strong>: nessun asterisco, né costi nascosti o clausole minuscole.</li>\r\n\t<li><strong>Veloce</strong>: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.</li>\r\n\t<li><strong>Rilassata</strong>: in Pulsee entri ed esci quando vuoi, a costo zero e senza vincoli temporali di permanenza.</li>\r\n\t<li><strong>Personalizzabile</strong>: Sharing? Impatto zero?</li>\r\n</ul>\r\n\r\n<p>Sei tu a scegliere.</p>\r\n</div>\r\n",
             "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-per-te?tipologia-prezzo=prezzo-fisso",
+            "linkSeeMore": "/offerte-casa-luce-gas/luce-per-te?tipologia-prezzo=prezzo-indicizzato",
             "nuovaVisualizzazioneIndicizzato": "1",
             "products": [
                 {
@@ -97,27 +98,6 @@
                             "name": "Energia F1</br>Energia F23",
                             "value": "12,000",
                             "listID": "OnereJollyPower"
-                        }
-                    ],
-                    "nDummyDiscountPercentage": 0
-                },
-                {
-                    "analyticsName": "Pulsee Luce PER TE",
-                    "commodity": "Luce",
-                    "priceType": "prezzo-fisso",
-                    "productCode": "Pulsee00207",
-                    "listCode": "000099ESFFL10XXPULSEEFIX09652210",
-                    "configurationCode": "Pulsee00207",
-                    "prices": [
-                        {
-                            "name": "Energia F1",
-                            "value": "0,464",
-                            "listID": "PrezzoF1"
-                        },
-                        {
-                            "name": "Energia F23",
-                            "value": "0,384",
-                            "listID": "Prezzo F23"
                         }
                     ],
                     "nDummyDiscountPercentage": 0
@@ -154,16 +134,17 @@
                     "id": "AXPODT2019-4-53",
                     "priceType": null
                 }
-            ]
+            ],
+            "priceCapIncluded": false
         },
         {
             "offerId": "782",
             "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-11/black_1.jpeg?itok=UoSLHiEK",
             "title": "Luce LIMIT.E",
             "subtitle": "Offerta valida fino al 10 Gennaio 2023.",
-            "description": "n",
+            "description": "<div style=\"text-align: left;\"><strong>Basta brancolare nel buio. </strong></div>\r\n\r\n<div style=\"text-align: left;\"><strong>Per darti i vantaggi del prezzo fisso e del prezzo indicizzato abbiamo creato un prodotto che rivoluziona le regole del settore energy e ti evita sorprese in bolletta.</strong><br />\r\nPulsee Luce Limit.e è il nuovo, innovativo prodotto che ti fa pagare la materia energia al prezzo di mercato mettendo però un tetto massimo per quando il mercato sale troppo.<br />\r\nIn questo modo, quando il prezzo scende, sei sicuro di pagare meno e quando il prezzo sale, sei certo che non vada mai oltre un certo limite.<br />\r\nCosì ti godi tutta la libertà di un prezzo che scende e la sicurezza nel caso in cui salga.</div>\r\n\r\n<div style=\"text-align: left;\">&nbsp;</div>\r\n\r\n<div style=\"text-align: left;\">Attiva Luce Limit.e per avere <strong>energia prodotta da fonti al 100% rinnovabili</strong> inclusa nell'offerta, <strong>massima trasparenza nelle comunicazioni</strong> senza asterischi, costi nascosti o simboli misteriosi da decifrare e la puoi <strong>personalizzare con tanti servizi</strong>.</div>\r\n",
             "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-limite?tipologia-prezzo=prezzo-fisso",
+            "linkSeeMore": "/offerte-casa-luce-gas/luce-limite?tipologia-prezzo=prezzo-indicizzato",
             "nuovaVisualizzazioneIndicizzato": "1",
             "products": [
                 {
@@ -219,7 +200,8 @@
                     "id": "AXPODT2019-4-53",
                     "priceType": null
                 }
-            ]
+            ],
+            "priceCapIncluded": true
         }
     ]
 }
