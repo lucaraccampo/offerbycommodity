@@ -201,7 +201,8 @@
                     "priceType": null
                 }
             ],
-            "priceCapIncluded": true
+            "priceCapIncluded": true,
+            "myGreenEnergyIncluded": true
         }
     ]
 }
