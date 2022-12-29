@@ -1,208 +1,172 @@
 {
-    "data": [
-        {
-            "offerId": "618",
-            "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2021-10/024_LUCE-Luce-RELAX.jpg?itok=x1nhbzid",
-            "title": "Luce RELAX",
-            "subtitle": "Offerta valida fino al 31 Dicembre 2022.",
-            "description": "",
-            "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-relax?tipologia-prezzo=prezzo-indicizzato",
-            "nuovaVisualizzazioneIndicizzato": "1",
-            "products": [
-                {
-                    "analyticsName": "Pulsee Luce RELAX",
-                    "commodity": "Luce",
-                    "priceType": "prezzo-indicizzato",
-                    "productCode": "Pulsee00187",
-                    "listCode": "000099ESVML10XXPULSEEPUB09992210",
-                    "configurationCode": "Pulsee00187",
-                    "prices": [
-                        {
-                            "name": "Energia F0",
-                            "value": "0,000",
-                            "listID": "PrezzoF0"
-                        },
-                        {
-                            "name": "Energia F0",
-                            "value": "12,000",
-                            "listID": "OnereJollyPower"
-                        }
-                    ],
-                    "nDummyDiscountPercentage": 0
-                }
-            ],
-            "documentList": [
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo indicizzato)",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2022-4-13543",
-                    "priceType": "prezzo-indicizzato"
-                },
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo fisso)",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2022-630736552-4904451",
-                    "priceType": "prezzo-fisso"
-                }
-            ],
-            "generalDocumentList": [
-                {
-                    "name": "Condizioni generali di fornitura",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-51",
-                    "priceType": null
-                },
-                {
-                    "name": "Note informative al cliente",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-53",
-                    "priceType": null
-                }
-            ],
-            "priceCapIncluded": false
-        },
-        {
-            "offerId": "619",
-            "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2021-10/012_LUCE-Luce-PER-TE.jpg?itok=Z7v0sV3f",
-            "title": "Luce PER TE",
-            "subtitle": "Offerta valida fino al 31 Dicembre 2022.",
-            "description": "",
-            "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-per-te?tipologia-prezzo=prezzo-indicizzato",
-            "nuovaVisualizzazioneIndicizzato": "1",
-            "products": [
-                {
-                    "analyticsName": "Pulsee Luce PER TE",
-                    "commodity": "Luce",
-                    "priceType": "prezzo-indicizzato",
-                    "productCode": "Pulsee00194",
-                    "listCode": "000099ESVFL10XXPULSEEPUM09982210",
-                    "configurationCode": "Pulsee00194",
-                    "prices": [
-                        {
-                            "name": "Energia F1",
-                            "value": "0,000",
-                            "listID": "PrezzoF1"
-                        },
-                        {
-                            "name": "Energia F23",
-                            "value": "0,000",
-                            "listID": "Prezzo F23"
-                        },
-                        {
-                            "name": "Energia F1</br>Energia F23",
-                            "value": "12,000",
-                            "listID": "OnereJollyPower"
-                        }
-                    ],
-                    "nDummyDiscountPercentage": 0
-                }
-            ],
-            "documentList": [
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo indicizzato)",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2022-4-14492",
-                    "priceType": "prezzo-indicizzato"
-                },
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo fisso)",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2022-4-14491",
-                    "priceType": "prezzo-fisso"
-                }
-            ],
-            "generalDocumentList": [
-                {
-                    "name": "Condizioni generali di fornitura",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-51",
-                    "priceType": null
-                },
-                {
-                    "name": "Note informative al cliente",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-53",
-                    "priceType": null
-                }
-            ],
-            "priceCapIncluded": false
-        },
-        {
-            "offerId": "782",
-            "image": "https://portale-uat.pulsee.it/sites/default/files/styles/immagine_card/public/2022-11/black_1.jpeg?itok=UoSLHiEK",
-            "title": "Luce LIMIT.E",
-            "subtitle": "Offerta valida fino al 10 Gennaio 2023.",
-            "description": "",
-            "type": "offer-1",
-            "linkSeeMore": "/offerte-casa-luce-gas/luce-limite?tipologia-prezzo=prezzo-indicizzato",
-            "nuovaVisualizzazioneIndicizzato": "1",
-            "products": [
-                {
-                    "analyticsName": "Pulsee Luce Limit.e",
-                    "commodity": "Luce",
-                    "priceType": "prezzo-indicizzato",
-                    "productCode": "Pulsee00288",
-                    "listCode": "000099ESVML12XXPULSEEPUB14252212",
-                    "configurationCode": "Pulsee00288",
-                    "prices": [
-                        {
-                            "name": "Energia F0",
-                            "value": "0,000",
-                            "listID": "PrezzoF0"
-                        },
-                        {
-                            "name": "Energia F0",
-                            "value": "20,000",
-                            "listID": "OnereJollyPower"
-                        }
-                    ],
-                    "nDummyDiscountPercentage": 30
-                }
-            ],
-            "documentList": [
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo indicizzato)",
-                    "type": "",
-                    "size": "",
-                    "id": "",
-                    "priceType": "prezzo-indicizzato"
-                },
-                {
-                    "name": "Condizioni tecnico-economiche e Scheda di confrontabilità (prezzo fisso)",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2022-630736552-4904451",
-                    "priceType": "prezzo-fisso"
-                }
-            ],
-            "generalDocumentList": [
-                {
-                    "name": "Condizioni generali di fornitura",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-51",
-                    "priceType": null
-                },
-                {
-                    "name": "Note informative al cliente",
-                    "type": "",
-                    "size": "",
-                    "id": "AXPODT2019-4-53",
-                    "priceType": null
-                }
-            ],
-            "priceCapIncluded": true,
-            "myGreenEnergyIncluded": true
-        }
-    ]
+	"data": [{
+		"offerId": "618",
+		"image": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/styles\/immagine_card\/public\/2021-10\/024_LUCE-Luce-RELAX.jpg?itok=x1nhbzid",
+		"title": "Luce RELAX",
+		"subtitle": "Offerta valida fino al 31 Dicembre 2022.",
+		"description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EFornitura elettrica h24, 7 giorni su 7, senza sorprese.\u003C\/strong\u003E\u003C\/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EConveniente\u003C\/strong\u003E: il valore della componente energia \u00e8 sempre competitivo.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESostenibile\u003C\/strong\u003E: il 100% dell\u0027energia fornita proviene da fonti rinnovabili.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ETrasparente\u003C\/strong\u003E: nessun asterisco, n\u00e9 costi nascosti o clausole minuscole.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EVeloce\u003C\/strong\u003E: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERilassata\u003C\/strong\u003E: in Pulsee entri ed esci quando vuoi, a costo zero e senza vincoli temporali di permanenza.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EPersonalizzabile\u003C\/strong\u003E: Sharing? Impatto zero?\u003C\/li\u003E\r\n\u003C\/ul\u003E\r\n\r\n\u003Cp\u003ESei tu a scegliere.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n",
+		"type": "offer-1",
+		"linkSeeMore": "\/offerte-casa-luce-gas\/luce-relax?tipologia-prezzo=prezzo-indicizzato",
+		"nuovaVisualizzazioneIndicizzato": "1",
+		"products": [{
+			"analyticsName": "Pulsee Luce RELAX",
+			"commodity": "Luce",
+			"priceType": "prezzo-indicizzato",
+			"productCode": "Pulsee00187",
+			"listCode": "000099ESVML10XXPULSEEPUB09992210",
+			"configurationCode": "Pulsee00187",
+			"prices": [{
+				"name": "Energia F0",
+				"value": "0,000",
+				"listID": "PrezzoF0"
+			}, {
+				"name": "Energia F0",
+				"value": "12,000",
+				"listID": "OnereJollyPower"
+			}],
+			"nDummyDiscountPercentage": "20"
+		}],
+		"documentList": [{
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo indicizzato)",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2022-4-13543",
+			"priceType": "prezzo-indicizzato"
+		}, {
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo fisso)",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2022-630736552-4904451",
+			"priceType": "prezzo-fisso"
+		}],
+		"generalDocumentList": [{
+			"name": "Condizioni generali di fornitura",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-51",
+			"priceType": null
+		}, {
+			"name": "Note informative al cliente",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-53",
+			"priceType": null
+		}],
+		"priceCapIncluded": false,
+		"myGreenEnergyIncluded": true
+	}, {
+		"offerId": "619",
+		"image": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/styles\/immagine_card\/public\/2021-10\/012_LUCE-Luce-PER-TE.jpg?itok=Z7v0sV3f",
+		"title": "Luce PER TE",
+		"subtitle": "Offerta valida fino al 31 Dicembre 2022.",
+		"description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDedicata a chi usa l\u0027energia elettrica solo in momenti precisi.\u003C\/strong\u003E\u003C\/p\u003E\r\n\r\n\u003Cul\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EConveniente\u003C\/strong\u003E: il valore della componente energia \u00e8 sempre competitivo.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ESostenibile\u003C\/strong\u003E: il 100% dell\u0027energia fornita proviene da fonti rinnovabili.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ETrasparente\u003C\/strong\u003E: nessun asterisco, n\u00e9 costi nascosti o clausole minuscole.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EVeloce\u003C\/strong\u003E: la attivi in pochi minuti anche dallo smartphone. Devi solo inserire i tuoi dati: al resto ci pensa Pulsee.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003ERilassata\u003C\/strong\u003E: in Pulsee entri ed esci quando vuoi, a costo zero e senza vincoli temporali di permanenza.\u003C\/li\u003E\r\n\t\u003Cli\u003E\u003Cstrong\u003EPersonalizzabile\u003C\/strong\u003E: Sharing? Impatto zero?\u003C\/li\u003E\r\n\u003C\/ul\u003E\r\n\r\n\u003Cp\u003ESei tu a scegliere.\u003C\/p\u003E\r\n\u003C\/div\u003E\r\n",
+		"type": "offer-1",
+		"linkSeeMore": "\/offerte-casa-luce-gas\/luce-per-te?tipologia-prezzo=prezzo-indicizzato",
+		"nuovaVisualizzazioneIndicizzato": "1",
+		"products": [{
+			"analyticsName": "Pulsee Luce PER TE",
+			"commodity": "Luce",
+			"priceType": "prezzo-indicizzato",
+			"productCode": "Pulsee00194",
+			"listCode": "000099ESVFL10XXPULSEEPUM09982210",
+			"configurationCode": "Pulsee00194",
+			"prices": [{
+				"name": "Energia F1",
+				"value": "0,000",
+				"listID": "PrezzoF1"
+			}, {
+				"name": "Energia F23",
+				"value": "0,000",
+				"listID": "Prezzo F23"
+			}, {
+				"name": "Energia F1\u003C\/br\u003EEnergia F23",
+				"value": "12,000",
+				"listID": "OnereJollyPower"
+			}],
+			"nDummyDiscountPercentage": "20"
+		}],
+		"documentList": [{
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo indicizzato)",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2022-4-14492",
+			"priceType": "prezzo-indicizzato"
+		}, {
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo fisso)",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2022-4-14491",
+			"priceType": "prezzo-fisso"
+		}],
+		"generalDocumentList": [{
+			"name": "Condizioni generali di fornitura",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-51",
+			"priceType": null
+		}, {
+			"name": "Note informative al cliente",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-53",
+			"priceType": null
+		}],
+		"priceCapIncluded": false,
+		"myGreenEnergyIncluded": true
+	}, {
+		"offerId": "782",
+		"image": "https:\/\/portale-uat.pulsee.it\/sites\/default\/files\/styles\/immagine_card\/public\/2022-11\/black_1.jpeg?itok=UoSLHiEK",
+		"title": "Luce LIMIT.E",
+		"subtitle": "Offerta valida fino al 10 Gennaio 2023.",
+		"description": "\u003Cdiv style=\u0022text-align: left;\u0022\u003E\u003Cstrong\u003EBasta brancolare nel buio. \u003C\/strong\u003E\u003C\/div\u003E\r\n\r\n\u003Cdiv style=\u0022text-align: left;\u0022\u003E\u003Cstrong\u003EPer darti i vantaggi del prezzo fisso e del prezzo indicizzato abbiamo creato un prodotto che rivoluziona le regole del settore energy e ti evita sorprese in bolletta.\u003C\/strong\u003E\u003Cbr \/\u003E\r\nPulsee Luce Limit.e \u00e8 il nuovo, innovativo prodotto che ti fa pagare la materia energia al prezzo di mercato mettendo per\u00f2 un tetto massimo per quando il mercato sale troppo.\u003Cbr \/\u003E\r\nIn questo modo, quando il prezzo scende, sei sicuro di pagare meno e quando il prezzo sale, sei certo che non vada mai oltre un certo limite.\u003Cbr \/\u003E\r\nCos\u00ec ti godi tutta la libert\u00e0 di un prezzo che scende e la sicurezza nel caso in cui salga.\u003C\/div\u003E\r\n\r\n\u003Cdiv style=\u0022text-align: left;\u0022\u003E\u0026nbsp;\u003C\/div\u003E\r\n\r\n\u003Cdiv style=\u0022text-align: left;\u0022\u003EAttiva Luce Limit.e per avere \u003Cstrong\u003Eenergia prodotta da fonti al 100% rinnovabili\u003C\/strong\u003E inclusa nell\u0027offerta, \u003Cstrong\u003Emassima trasparenza nelle comunicazioni\u003C\/strong\u003E senza asterischi, costi nascosti o simboli misteriosi da decifrare e la puoi \u003Cstrong\u003Epersonalizzare con tanti servizi\u003C\/strong\u003E.\u003C\/div\u003E\r\n",
+		"type": "offer-1",
+		"linkSeeMore": "\/offerte-casa-luce-gas\/luce-limite?tipologia-prezzo=prezzo-indicizzato",
+		"nuovaVisualizzazioneIndicizzato": "1",
+		"products": [{
+			"analyticsName": "Pulsee Luce Limit.e",
+			"commodity": "Luce",
+			"priceType": "prezzo-indicizzato",
+			"productCode": "Pulsee00288",
+			"listCode": "000099ESVML12XXPULSEEPUB14252212",
+			"configurationCode": "Pulsee00288",
+			"prices": [{
+				"name": "Energia F0",
+				"value": "0,000",
+				"listID": "PrezzoF0"
+			}, {
+				"name": "Energia F0",
+				"value": "20,000",
+				"listID": "OnereJollyPower"
+			}],
+			"nDummyDiscountPercentage": "30"
+		}],
+		"documentList": [{
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo indicizzato)",
+			"type": "",
+			"size": "",
+			"id": "",
+			"priceType": "prezzo-indicizzato"
+		}, {
+			"name": "Condizioni tecnico-economiche e Scheda di confrontabilit\u00e0 (prezzo fisso)",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2022-630736552-4904451",
+			"priceType": "prezzo-fisso"
+		}],
+		"generalDocumentList": [{
+			"name": "Condizioni generali di fornitura",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-51",
+			"priceType": null
+		}, {
+			"name": "Note informative al cliente",
+			"type": "",
+			"size": "",
+			"id": "AXPODT2019-4-53",
+			"priceType": null
+		}],
+		"priceCapIncluded": true,
+		"myGreenEnergyIncluded": true
+	}]
 }
