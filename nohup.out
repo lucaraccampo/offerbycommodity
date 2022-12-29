@@ -1,3 +1,4 @@
 bind [::1]:8234: Address already in use
 channel_setup_fwd_listener_tcpip: cannot listen to port: 8234
 Could not request local forwarding.
+client_loop: send disconnect: Broken pipe
